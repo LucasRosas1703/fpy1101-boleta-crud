@@ -1,7 +1,3 @@
-# fpy1101-boleta-crud
-Programa de boleta con funciones CRUD en Python
-# Boleta CRUD — FPY1101
-
 Programa en Python que implementa las operaciones CRUD
 sobre una boleta de compras usando funciones.
 
